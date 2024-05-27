@@ -1,4 +1,4 @@
-<h1 align="center">Hello i'm GABRIEL DANIEL</h1>
+<h1 align="center">Hello ,i'm GABRIEL DANIEL</h1>
 <h3 align="center">Highly motivated and detail-oriented full-stack developer with expertise in both front-end and back-end development. Proficient in a range of programming languages, including [list your programming languages.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-daniel&label=Profile%20views&color=0e75b6&style=flat" alt="gabriel-daniel" /> </p>
